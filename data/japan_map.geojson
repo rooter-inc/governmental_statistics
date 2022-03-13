@@ -648,6 +648,136 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 40, "name": "fukuoka" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [127.0, 35.0],
+            [127.0, 33.5],
+            [126.0, 33.5],
+            [126.0, 35.0],
+            [127.0, 35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 41, "name": "saga" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [126.0, 34.5],
+            [126.0, 33.5],
+            [124.5, 33.5],
+            [124.5, 34.5],
+            [126.0, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 42, "name": "nagasaki" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [125.5, 33.5],
+            [125.5, 32.5],
+            [124.5, 32.5],
+            [124.5, 33.5],
+            [125.5, 33.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 43, "name": "kumamoto" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [127.0, 33.5],
+            [127.0, 32.0],
+            [126.0, 32.0],
+            [126.0, 33.5],
+            [127.0, 33.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 44, "name": "oita" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [128.0, 34.5],
+            [128.0, 33.0],
+            [127.0, 33.0],
+            [127.0, 34.5],
+            [128.0, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 45, "name": "miyazaki" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [128.0, 33.0],
+            [128.0, 31.5],
+            [127.0, 31.5],
+            [127.0, 33.0],
+            [128.0, 33.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 46, "name": "kagoshima" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [128.0, 31.5],
+            [128.0, 30.5],
+            [126.0, 30.5],
+            [126.0, 32.0],
+            [127.0, 32.0],
+            [127.0, 31.5],
+            [128.0, 31.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 47, "name": "okinawa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [124.0, 29.0],
+            [124.0, 27.5],
+            [123.5, 27.5],
+            [123.5, 29.0],
+            [124.0, 29.0]
+          ]
+        ]
+      }
     }
   ]
 }
