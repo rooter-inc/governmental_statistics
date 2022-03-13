@@ -1,0 +1,511 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "japan map"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "hokkaido" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.0, 42.0],
+            [140.0, 43.0],
+            [140.8, 43.0],
+            [140.8, 45.0],
+            [145.0, 45.0],
+            [145.0, 42.5],
+            [141.5, 42.5],
+            [141.5, 42.0],
+            [140.0, 42.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "aomori" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [142.6, 40.5],
+            [142.6, 41.5],
+            [140.0, 41.5],
+            [140.0, 40.5],
+            [142.6, 40.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "iwate" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [142.6, 40.5],
+            [142.6, 39.0],
+            [141.3, 39.0],
+            [141.3, 40.5],
+            [142.6, 40.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "miyagi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [142.6, 39.0],
+            [142.6, 37.8],
+            [141.3, 37.8],
+            [141.3, 39.0],
+            [142.6, 39.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "akita" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.3, 40.5],
+            [141.3, 39.0],
+            [140.0, 39.0],
+            [140.0, 40.5],
+            [141.3, 40.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "yamagata" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.3, 39.0],
+            [140.0, 39.0],
+            [140.0, 37.8],
+            [141.3, 37.8],
+            [141.3, 39.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "fukushima" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.0, 37.8],
+            [142.6, 37.8],
+            [142.6, 36.8],
+            [140.0, 36.8],
+            [140.0, 37.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "ibaraki" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [142.6, 36.8],
+            [142.6, 35.5],
+            [141.5, 35.5],
+            [141.5, 36.8],
+            [142.6, 36.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "tochigi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.5, 36.8],
+            [141.5, 35.9],
+            [140.5, 35.9],
+            [140.5, 36.8],
+            [141.5, 36.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "gunma" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.5, 36.8],
+            [140.5, 35.9],
+            [139.5, 35.9],
+            [139.5, 36.8],
+            [140.5, 36.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "saitama" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.5, 35.9],
+            [141.5, 35.3],
+            [139.8, 35.3],
+            [139.8, 35.9],
+            [141.5, 35.9]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 12, "name": "chiba" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.5, 35.5],
+            [141.5, 34.0],
+            [142.6, 34.0],
+            [142.6, 35.5],
+            [141.5, 35.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 13, "name": "tokyo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.5, 35.3],
+            [141.5, 34.8],
+            [140.0, 34.8],
+            [140.0, 35.3],
+            [141.5, 35.3]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 14, "name": "kanagawa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.2, 34.2],
+            [141.2, 34.8],
+            [140.0, 34.8],
+            [140.0, 34.2],
+            [141.2, 34.2]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 15, "name": "niigata" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.0, 38.0],
+            [140.0, 36.8],
+            [138.2, 36.8],
+            [138.2, 37.6],
+            [139.2, 37.6],
+            [139.2, 38.0],
+            [140.0, 38.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 16, "name": "toyama" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [138.2, 37.6],
+            [138.2, 36.5],
+            [137.0, 36.5],
+            [137.0, 37.6],
+            [138.2, 37.6]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 17, "name": "ishikawa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [137.0, 36.5],
+            [136.0, 36.5],
+            [136.0, 38.0],
+            [137.0, 38.0],
+            [137.0, 36.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 18, "name": "fukui" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [137.0, 36.5],
+            [136.0, 36.5],
+            [136.0, 36.0],
+            [135.0, 36.0],
+            [135.0, 35.8],
+            [137.0, 35.8],
+            [137.0, 36.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 19, "name": "yamanashi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.0, 35.3],
+            [140.0, 34.5],
+            [139.0, 34.5],
+            [139.0, 35.3],
+            [140.0, 35.3]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 20, "name": "nagano" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [139.5, 36.8],
+            [139.5, 35.9],
+            [139.8, 35.9],
+            [139.8, 35.3],
+            [139.0, 35.3],
+            [139.0, 34.5],
+            [138.2, 34.5],
+            [138.2, 36.8],
+            [139.5, 36.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 21, "name": "gifu" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [138.2, 36.5],
+            [138.2, 34.5],
+            [136.5, 34.5],
+            [136.5, 35.8],
+            [137.0, 35.8],
+            [137.0, 36.5],
+            [138.2, 36.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 22, "name": "shizuoka" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [140.0, 34.5],
+            [140.0, 33.5],
+            [138.2, 33.5],
+            [138.2, 34.5],
+            [140.0, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 23, "name": "aichi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [138.2, 34.5],
+            [138.2, 33.5],
+            [137.0, 33.5],
+            [137.0, 34.5],
+            [138.2, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 24, "name": "mie" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [137.0, 34.5],
+            [137.0, 32.5],
+            [135.5, 32.5],
+            [135.5, 34.5],
+            [137.0, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 25, "name": "shiga" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [136.5, 35.8],
+            [136.5, 34.5],
+            [135.5, 34.5],
+            [135.5, 35.8],
+            [136.5, 35.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 26, "name": "kyoto" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [135.0, 36.0],
+            [135.0, 35.8],
+            [135.5, 35.8],
+            [135.5, 34.5],
+            [134.0, 34.5],
+            [134.0, 36.0],
+            [135.0, 36.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 27, "name": "osaka" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [134.0, 34.5],
+            [134.0, 33.5],
+            [134.6, 33.5],
+            [134.6, 34.5],
+            [134.0, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 28, "name": "hyogo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [134.0, 36.0],
+            [134.0, 34.0],
+            [132.5, 34.0],
+            [132.5, 36.0],
+            [134.0, 36.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 29, "name": "nara" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [135.5, 34.5],
+            [135.5, 33.0],
+            [134.6, 33.0],
+            [134.6, 34.5],
+            [135.5, 34.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 30, "name": "wakayama" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [134.6, 33.5],
+            [134.6, 33.0],
+            [135.5, 33.0],
+            [135.5, 32.5],
+            [134.0, 32.5],
+            [134.0, 33.5],
+            [134.6, 33.5]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+
