@@ -4,4 +4,4 @@
 * [市区町村マスタ](#市区町村マスタ)
 ---
 
-## [市区町村マスタ](https://github.com/rooter-inc/governmental_statistics/data/municipal_master.csv)
+## [市区町村マスタ](https://github.com/rooter-inc/governmental_statistics/blob/main/data/municipal_master.csv)

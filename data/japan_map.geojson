@@ -504,8 +504,150 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 31, "name": "tottori" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [132.5, 36.0],
+            [132.5, 35.0],
+            [131.0, 35.0],
+            [131.0, 36.0],
+            [132.5, 36.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 32, "name": "shimane" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [131.0, 36.0],
+            [131.0, 35.0],
+            [129.5, 35.0],
+            [129.5, 36.0],
+            [131.0, 36.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 33, "name": "okayama" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [132.5, 35.0],
+            [132.5, 34.0],
+            [131.0, 34.0],
+            [131.0, 35.0],
+            [132.5, 35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 34, "name": "hiroshima" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [131.0, 35.0],
+            [131.0, 34.0],
+            [129.5, 34.0],
+            [129.5, 35.0],
+            [131.0, 35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 35, "name": "yamaguchi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [129.5, 36.0],
+            [129.5, 34.0],
+            [128.5, 34.0],
+            [128.5, 36.0],
+            [129.5, 36.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 36, "name": "tokushima" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [133.0, 32.8],
+            [133.0, 32.0],
+            [131.0, 32.0],
+            [131.0, 32.8],
+            [133.0, 32.8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 37, "name": "kagawa" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [133.0, 33.5],
+            [133.0, 32.8],
+            [131.0, 32.8],
+            [131.0, 33.5],
+            [133.0, 33.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 38, "name": "ehime" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [131.0, 33.5],
+            [131.0, 32.8],
+            [129.0, 32.8],
+            [129.0, 33.5],
+            [131.0, 33.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 39, "name": "kochi" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [131.0, 32.8],
+            [131.0, 32.0],
+            [129.0, 32.0],
+            [129.0, 32.8],
+            [131.0, 32.8]
+          ]
+        ]
+      }
     }
   ]
 }
-
-
