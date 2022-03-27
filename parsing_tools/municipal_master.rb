@@ -34,23 +34,28 @@ def main
     designated_cities = extract_designated_cities(xlsx.sheet(xlsx.sheets[1]))
 
     # 市区町村コードをcsvに纏める
-    csv_text = "団体コード,都道府県名(漢字),市区町村名（漢字）,都道府県名（ｶﾅ）,市区町村名（ｶﾅ）\n"
+    csv_text_with_wards = "municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)\n"
+    csv_text = "municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)\n"
 
     city_list = xlsx.sheet(xlsx.sheets[0])
     [*(city_list.first_row+1)..city_list.last_row].each do |i|
       next if city_list.row(i)[2].nil?
+      csv_text += city_list.row(i).to_csv
       if designated_cities[city_list.row(i)[2]]
         designated_cities[city_list.row(i)[2]].each do |row|
-          csv_text += row.to_csv
+          csv_text_with_wards += row.to_csv
         end
       else
-        csv_text += city_list.row(i).to_csv
+        csv_text_with_wards += city_list.row(i).to_csv
       end
     end
 
     # ダンプ
     File.open('../data/municipal_master.csv', 'w') do |f|
       f.write(csv_text)
+    end
+    File.open('../data/municipal_master_with_wards.csv', 'w') do |f|
+      f.write(csv_text_with_wards)
     end
   end
 end
