@@ -55,3 +55,9 @@ GeoJSONだけではLegendを表示することができないようです。
 またそのプロパティにtitleとdescriptionを付けることで、矢印をクリックした際に詳細な流出人口が見られるようになっています。
 
 <img src="/images/tokyo_inflow.png" alt="関東地方各県の東京都への昼間流出人口" width="320px">
+
+株式会社ルーターの所在地をこの地図で表現すると、下の画像のようになります。
+これは[このファイル](https://github.com/rooter-inc/governmental_statistics/blob/d70e00513f9030cdf5f581eede9ce3ba8af04282/data/japan_map.geojson)のように、Pointを用いて表現されています。
+また下の画像ではピンをクリックして、プロパティを閲覧している状態となっています。
+
+<img src="/images/rooter_address.png" alt="株式会社ルーターの所在地" width="320px">
