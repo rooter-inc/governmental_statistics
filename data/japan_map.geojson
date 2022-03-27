@@ -9,7 +9,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "id": 1, "name": "hokkaido" },
+      "properties": { "id": 1, "name": "hokkaido", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 2, "name": "aomori" },
+      "properties": { "id": 2, "name": "aomori", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -45,7 +45,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 3, "name": "iwate" },
+      "properties": { "id": 3, "name": "iwate", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61,7 +61,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 4, "name": "miyagi" },
+      "properties": { "id": 4, "name": "miyagi", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77,7 +77,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 5, "name": "akita" },
+      "properties": { "id": 5, "name": "akita", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -93,7 +93,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 6, "name": "yamagata" },
+      "properties": { "id": 6, "name": "yamagata", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -109,7 +109,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 7, "name": "fukushima" },
+      "properties": { "id": 7, "name": "fukushima", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -125,7 +125,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 8, "name": "ibaraki" },
+      "properties": { "id": 8, "name": "ibaraki", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -141,7 +141,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 9, "name": "tochigi" },
+      "properties": { "id": 9, "name": "tochigi", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -157,7 +157,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 10, "name": "gunma" },
+      "properties": { "id": 10, "name": "gunma", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 11, "name": "saitama" },
+      "properties": { "id": 11, "name": "saitama", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -189,7 +189,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 12, "name": "chiba" },
+      "properties": { "id": 12, "name": "chiba", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -205,7 +205,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 13, "name": "tokyo" },
+      "properties": { "id": 13, "name": "tokyo", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -221,7 +221,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 14, "name": "kanagawa" },
+      "properties": { "id": 14, "name": "kanagawa", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -237,7 +237,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 15, "name": "niigata" },
+      "properties": { "id": 15, "name": "niigata", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -255,7 +255,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 16, "name": "toyama" },
+      "properties": { "id": 16, "name": "toyama", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -271,7 +271,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 17, "name": "ishikawa" },
+      "properties": { "id": 17, "name": "ishikawa", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -287,7 +287,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 18, "name": "fukui" },
+      "properties": { "id": 18, "name": "fukui", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -305,7 +305,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 19, "name": "yamanashi" },
+      "properties": { "id": 19, "name": "yamanashi", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -321,7 +321,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 20, "name": "nagano" },
+      "properties": { "id": 20, "name": "nagano", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -341,7 +341,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 21, "name": "gifu" },
+      "properties": { "id": 21, "name": "gifu", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -359,7 +359,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 22, "name": "shizuoka" },
+      "properties": { "id": 22, "name": "shizuoka", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -375,7 +375,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 23, "name": "aichi" },
+      "properties": { "id": 23, "name": "aichi", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -391,7 +391,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 24, "name": "mie" },
+      "properties": { "id": 24, "name": "mie", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -407,7 +407,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 25, "name": "shiga" },
+      "properties": { "id": 25, "name": "shiga", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -423,7 +423,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 26, "name": "kyoto" },
+      "properties": { "id": 26, "name": "kyoto", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -441,7 +441,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 27, "name": "osaka" },
+      "properties": { "id": 27, "name": "osaka", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -457,7 +457,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 28, "name": "hyogo" },
+      "properties": { "id": 28, "name": "hyogo", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -473,7 +473,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 29, "name": "nara" },
+      "properties": { "id": 29, "name": "nara", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -489,7 +489,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 30, "name": "wakayama" },
+      "properties": { "id": 30, "name": "wakayama", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -507,7 +507,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 31, "name": "tottori" },
+      "properties": { "id": 31, "name": "tottori", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -523,7 +523,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 32, "name": "shimane" },
+      "properties": { "id": 32, "name": "shimane", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -539,7 +539,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 33, "name": "okayama" },
+      "properties": { "id": 33, "name": "okayama", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -555,7 +555,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 34, "name": "hiroshima" },
+      "properties": { "id": 34, "name": "hiroshima", "fill": " #FFB74C" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -571,7 +571,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 35, "name": "yamaguchi" },
+      "properties": { "id": 35, "name": "yamaguchi", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -587,7 +587,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 36, "name": "tokushima" },
+      "properties": { "id": 36, "name": "tokushima", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -603,7 +603,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 37, "name": "kagawa" },
+      "properties": { "id": 37, "name": "kagawa", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -619,7 +619,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 38, "name": "ehime" },
+      "properties": { "id": 38, "name": "ehime", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -635,7 +635,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 39, "name": "kochi" },
+      "properties": { "id": 39, "name": "kochi", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -651,7 +651,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 40, "name": "fukuoka" },
+      "properties": { "id": 40, "name": "fukuoka", "fill": "#ff0000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -667,7 +667,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 41, "name": "saga" },
+      "properties": { "id": 41, "name": "saga", "fill": "#0067C0" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -683,7 +683,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 42, "name": "nagasaki" },
+      "properties": { "id": 42, "name": "nagasaki", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -699,7 +699,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 43, "name": "kumamoto" },
+      "properties": { "id": 43, "name": "kumamoto", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -715,7 +715,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 44, "name": "oita" },
+      "properties": { "id": 44, "name": "oita", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -731,7 +731,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 45, "name": "miyazaki" },
+      "properties": { "id": 45, "name": "miyazaki", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -747,7 +747,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 46, "name": "kagoshima" },
+      "properties": { "id": 46, "name": "kagoshima", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -765,7 +765,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": 47, "name": "okinawa" },
+      "properties": { "id": 47, "name": "okinawa", "fill": " #008000" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -792,3 +792,5 @@
     }
   ]
 }
+
+
