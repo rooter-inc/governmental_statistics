@@ -43,3 +43,15 @@
 
 FeatureCollectionのfeaturesの中には各都道府県のポリゴンが記載されています。
 それらに対応するidはJIS X 0401からとっており、nameは都道府県名のローマ字表記となっています。
+
+この地図に人口毎に色付けをすると、下の画像のようになります。
+これは[このファイル](https://github.com/rooter-inc/governmental_statistics/blob/1eccdf149b4d478556fa045876dc30d5920eb619/data/japan_map.geojson)のように、都道府県毎のpolygonにfillプロパティで色付けをしています。
+GeoJSONだけではLegendを表示することができないようです。
+
+<img src="/images/population_map.png" alt="都道府県人口階級区分図" width="320px">
+
+また関東地方の東京都への昼間流出人口をこの地図を使って表現すると、下の画像のようになります。
+これは[このファイル](https://github.com/rooter-inc/governmental_statistics/blob/7143f7d2e5d1dd98477caa25d7333a656c69ff71/data/japan_map.geojson)のように、MultiLineStringを用いて矢印を表現しています。
+またそのプロパティにtitleとdescriptionを付けることで、矢印をクリックした際に詳細な流出人口が見られるようになっています。
+
+<img src="/images/tokyo_inflow.png" alt="関東地方各県の東京都への昼間流出人口" width="320px">
