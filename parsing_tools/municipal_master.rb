@@ -34,8 +34,8 @@ def main
     designated_cities = extract_designated_cities(xlsx.sheet(xlsx.sheets[1]))
 
     # 市区町村コードをcsvに纏める
-    csv_text_with_wards = "municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)\n"
-    csv_text = "municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)\n"
+    csv_text_with_wards = "municipal_code,prefecture_kanji,city_kanji,prefecture_kana,city_kana\n"
+    csv_text = "municipal_code,prefecture_kanji,city_kanji,prefecture_kana,city_kana\n"
 
     city_list = xlsx.sheet(xlsx.sheets[0])
     [*(city_list.first_row+1)..city_list.last_row].each do |i|

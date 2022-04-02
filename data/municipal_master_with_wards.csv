@@ -1,4 +1,4 @@
-municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)
+municipal_code,prefecture_kanji,city_kanji,prefecture_kana,city_kana
 011011,北海道,札幌市中央区,ﾎｯｶｲﾄﾞｳ,ｻｯﾎﾟﾛｼﾁｭｳｵｳｸ
 011029,北海道,札幌市北区,ﾎｯｶｲﾄﾞｳ,ｻｯﾎﾟﾛｼｷﾀｸ
 011037,北海道,札幌市東区,ﾎｯｶｲﾄﾞｳ,ｻｯﾎﾟﾛｼﾋｶﾞｼｸ

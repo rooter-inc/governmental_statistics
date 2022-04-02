@@ -16,7 +16,7 @@
 
 ヘッダは以下のようになっています。
 
-| municipal_code | prefecture(kanji) | city(kanji) | prefecture(kana) | city(kana) |
+| municipal_code | prefecture_kanji | city_kanji | prefecture_kana | city_kana |
 | ---- | ---- | ---- | ---- | ---- |
 | 地方公共団体コード | 都道府県名（漢字） | 市区町村名（漢字） | 都道府県名（半角ｶﾅ） | 市区町村名（半角ｶﾅ） |
 

@@ -1,4 +1,4 @@
-municipal_code,prefecture(kanji),city(kanji),prefecture(kana),city(kana)
+municipal_code,prefecture_kanji,city_kanji,prefecture_kana,city_kana
 011002,北海道,札幌市,ﾎｯｶｲﾄﾞｳ,ｻｯﾎﾟﾛｼ
 012025,北海道,函館市,ﾎｯｶｲﾄﾞｳ,ﾊｺﾀﾞﾃｼ
 012033,北海道,小樽市,ﾎｯｶｲﾄﾞｳ,ｵﾀﾙｼ
